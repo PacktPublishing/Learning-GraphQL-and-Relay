@@ -1,0 +1,25 @@
+{
+  "name": "graphql-project",
+  "version": "1.0.0",
+  "description": "Learning GraphQL and Relay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgecoders/learning-graphql-and-relay.git"
+  },
+  "author": "Samer Buna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgecoders/learning-graphql-and-relay/issues"
+  },
+  "homepage": "https://github.com/edgecoders/learning-graphql-and-relay#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.3",
+    "graphql": "^0.6.2",
+    "mongodb": "^2.2.5"
+  }
+}
